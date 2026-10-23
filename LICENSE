@@ -1,0 +1,19 @@
+This repository contains material under two licenses.
+
+1. Data (the packages of the releases and catalogo.json): databases derived from Open Food Facts and from
+   OpenSkiData / OpenStreetMap.
+
+   GPKinetic public data is made available under the Open Database License:
+   http://opendatacommons.org/licenses/odbl/1.0/. Any rights in individual contents of the database are licensed
+   under the Database Contents License: http://opendatacommons.org/licenses/dbcl/1.0/
+
+   Attribution:
+   - Food products: © Open Food Facts contributors, https://world.openfoodfacts.org (ODbL 1.0, contents DbCL 1.0).
+   - Ski areas, runs and lifts: © OpenStreetMap contributors, https://www.openstreetmap.org/copyright, processed by
+     OpenSkiData, https://openskidata.org (ODbL 1.0).
+
+2. The 3D model of the muscles (folder modello-3d/): adapted from Z-Anatomy, https://github.com/LluisV/Z-Anatomy,
+   licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0),
+   https://creativecommons.org/licenses/by-sa/4.0/. The adapted files are released under the same license.
+   Changes: meshes selected, cropped and simplified (decimation), regrouped by muscle zone, coloured, and exported as
+   glTF/GLB with Draco compression; zones.json maps the meshes to the muscle zones.

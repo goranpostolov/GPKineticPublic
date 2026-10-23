@@ -1,0 +1,3473 @@
+{
+  "zones": [
+    {
+      "slug": "abdominal-part-of-pectoralis-major-muscle",
+      "label": "(Abdominal part of pectoralis major muscle)",
+      "region": "petto",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        112,
+        70,
+        184
+      ],
+      "hex": "#7046b8"
+    },
+    {
+      "slug": "adductor-minimus",
+      "label": "(Adductor minimus)",
+      "region": "adduttori",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        54,
+        250,
+        69
+      ],
+      "hex": "#36fa45"
+    },
+    {
+      "slug": "acromial-part-of-deltoid-muscle",
+      "label": "Acromial part of deltoid muscle",
+      "region": "spalle",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        184,
+        9,
+        47
+      ],
+      "hex": "#b8092f"
+    },
+    {
+      "slug": "adductor-brevis",
+      "label": "Adductor brevis",
+      "region": "adduttori",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        95,
+        174,
+        250
+      ],
+      "hex": "#5faefa"
+    },
+    {
+      "slug": "adductor-longus",
+      "label": "Adductor longus",
+      "region": "adduttori",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        155,
+        184,
+        39
+      ],
+      "hex": "#9bb827"
+    },
+    {
+      "slug": "adductor-magnus",
+      "label": "Adductor magnus",
+      "region": "adduttori",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        228,
+        12,
+        250
+      ],
+      "hex": "#e40cfa"
+    },
+    {
+      "slug": "anconeus-muscle",
+      "label": "Anconeus muscle",
+      "region": "braccia",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        70,
+        184,
+        140
+      ],
+      "hex": "#46b88c"
+    },
+    {
+      "slug": "descending-part-of-trapezius-muscle",
+      "label": "Descending part of trapezius muscle",
+      "region": "schiena",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        250,
+        118,
+        54
+      ],
+      "hex": "#fa7636"
+    },
+    {
+      "slug": "brachialis-muscle",
+      "label": "Brachialis muscle",
+      "region": "braccia",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        15,
+        9,
+        184
+      ],
+      "hex": "#0f09b8"
+    },
+    {
+      "slug": "brachioradialis-muscle",
+      "label": "Brachioradialis muscle",
+      "region": "avambraccio",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        135,
+        250,
+        95
+      ],
+      "hex": "#87fa5f"
+    },
+    {
+      "slug": "clavicular-head-of-pectoralis-major-muscle",
+      "label": "Clavicular head of pectoralis major muscle",
+      "region": "petto",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        184,
+        39,
+        119
+      ],
+      "hex": "#b82777"
+    },
+    {
+      "slug": "clavicular-part-of-deltoid-muscle",
+      "label": "Clavicular part of deltoid muscle",
+      "region": "spalle",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        12,
+        212,
+        250
+      ],
+      "hex": "#0cd4fa"
+    },
+    {
+      "slug": "coccygeus-muscle",
+      "label": "Coccygeus muscle",
+      "region": "core",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        184,
+        168,
+        70
+      ],
+      "hex": "#b8a846"
+    },
+    {
+      "slug": "coracobrachialis-muscle",
+      "label": "Coracobrachialis muscle",
+      "region": "braccia",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        166,
+        54,
+        250
+      ],
+      "hex": "#a636fa"
+    },
+    {
+      "slug": "deep-head-of-pronator-teres",
+      "label": "Deep head of pronator teres",
+      "region": "avambraccio",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        9,
+        184,
+        59
+      ],
+      "hex": "#09b83b"
+    },
+    {
+      "slug": "ascending-part-of-trapezius-muscle",
+      "label": "Ascending part of trapezius muscle",
+      "region": "schiena",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        250,
+        95,
+        96
+      ],
+      "hex": "#fa5f60"
+    },
+    {
+      "slug": "diaphragm",
+      "label": "Diaphragm",
+      "region": "core",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        39,
+        83,
+        184
+      ],
+      "hex": "#2753b8"
+    },
+    {
+      "slug": "dorsal-parts-of-lateral-intertransversarii-lumborum-muscles",
+      "label": "Dorsal parts of lateral intertransversarii lumborum muscles",
+      "region": "schiena",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        153,
+        250,
+        12
+      ],
+      "hex": "#99fa0c"
+    },
+    {
+      "slug": "extensor-carpi-radialis-brevis",
+      "label": "Extensor carpi radialis brevis",
+      "region": "avambraccio",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        184,
+        70,
+        170
+      ],
+      "hex": "#b846aa"
+    },
+    {
+      "slug": "extensor-carpi-radialis-longus",
+      "label": "Extensor carpi radialis longus",
+      "region": "avambraccio",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        54,
+        250,
+        215
+      ],
+      "hex": "#36fad7"
+    },
+    {
+      "slug": "extensor-digitorum-longus",
+      "label": "Extensor digitorum longus",
+      "region": "polpacci",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        184,
+        102,
+        9
+      ],
+      "hex": "#b86609"
+    },
+    {
+      "slug": "extensor-digitorum",
+      "label": "Extensor digitorum",
+      "region": "avambraccio",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        132,
+        95,
+        250
+      ],
+      "hex": "#845ffa"
+    },
+    {
+      "slug": "extensor-indicis",
+      "label": "Extensor indicis",
+      "region": "avambraccio",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        47,
+        184,
+        39
+      ],
+      "hex": "#2fb827"
+    },
+    {
+      "slug": "external-abdominal-oblique-muscle",
+      "label": "External abdominal oblique muscle",
+      "region": "addome",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        250,
+        12,
+        94
+      ],
+      "hex": "#fa0c5e"
+    },
+    {
+      "slug": "external-anal-sphincter",
+      "label": "External anal sphincter",
+      "region": "core",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        70,
+        142,
+        184
+      ],
+      "hex": "#468eb8"
+    },
+    {
+      "slug": "external-intercostal-muscles",
+      "label": "External intercostal muscles",
+      "region": "core",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        236,
+        250,
+        54
+      ],
+      "hex": "#ecfa36"
+    },
+    {
+      "slug": "fibularis-brevis-muscle",
+      "label": "Fibularis brevis muscle",
+      "region": "polpacci",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        145,
+        9,
+        184
+      ],
+      "hex": "#9109b8"
+    },
+    {
+      "slug": "fibularis-longus-muscle",
+      "label": "Fibularis longus muscle",
+      "region": "polpacci",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        95,
+        250,
+        171
+      ],
+      "hex": "#5ffaab"
+    },
+    {
+      "slug": "fibularis-tertius-muscle",
+      "label": "Fibularis tertius muscle",
+      "region": "polpacci",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        184,
+        68,
+        39
+      ],
+      "hex": "#b84427"
+    },
+    {
+      "slug": "flexor-carpi-radialis",
+      "label": "Flexor carpi radialis",
+      "region": "avambraccio",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        12,
+        35,
+        250
+      ],
+      "hex": "#0c23fa"
+    },
+    {
+      "slug": "flexor-digitorum-longus",
+      "label": "Flexor digitorum longus",
+      "region": "polpacci",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        114,
+        184,
+        70
+      ],
+      "hex": "#72b846"
+    },
+    {
+      "slug": "flexor-digitorum-profundus",
+      "label": "Flexor digitorum profundus",
+      "region": "avambraccio",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        250,
+        54,
+        187
+      ],
+      "hex": "#fa36bb"
+    },
+    {
+      "slug": "gluteus-maximus-muscle",
+      "label": "Gluteus maximus muscle",
+      "region": "glutei",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        9,
+        178,
+        184
+      ],
+      "hex": "#09b2b8"
+    },
+    {
+      "slug": "gluteus-medius-muscle",
+      "label": "Gluteus medius muscle",
+      "region": "glutei",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        250,
+        209,
+        95
+      ],
+      "hex": "#fad15f"
+    },
+    {
+      "slug": "gluteus-minimus-muscle",
+      "label": "Gluteus minimus muscle",
+      "region": "glutei",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        104,
+        39,
+        184
+      ],
+      "hex": "#6827b8"
+    },
+    {
+      "slug": "gracilis-muscle",
+      "label": "Gracilis muscle",
+      "region": "adduttori",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        12,
+        250,
+        49
+      ],
+      "hex": "#0cfa31"
+    },
+    {
+      "slug": "humeral-head-of-extensor-carpi-ulnaris",
+      "label": "Humeral head of extensor carpi ulnaris",
+      "region": "avambraccio",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        184,
+        70,
+        85
+      ],
+      "hex": "#b84655"
+    },
+    {
+      "slug": "humeral-head-of-flexor-carpi-ulnaris",
+      "label": "Humeral head of flexor carpi ulnaris",
+      "region": "avambraccio",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        54,
+        138,
+        250
+      ],
+      "hex": "#368afa"
+    },
+    {
+      "slug": "humero-ulnar-head-of-flexor-digitorum-superficialis",
+      "label": "Humero-ulnar head of flexor digitorum superficialis",
+      "region": "avambraccio",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        135,
+        184,
+        9
+      ],
+      "hex": "#87b809"
+    },
+    {
+      "slug": "iliacus-muscle",
+      "label": "Iliacus muscle",
+      "region": "core",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        248,
+        95,
+        250
+      ],
+      "hex": "#f85ffa"
+    },
+    {
+      "slug": "iliococcygeus-muscle",
+      "label": "Iliococcygeus muscle",
+      "region": "core",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        39,
+        184,
+        140
+      ],
+      "hex": "#27b88c"
+    },
+    {
+      "slug": "iliocostalis-colli-muscle",
+      "label": "Iliocostalis colli muscle",
+      "region": "collo",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        250,
+        109,
+        12
+      ],
+      "hex": "#fa6d0c"
+    },
+    {
+      "slug": "iliocostalis-lumborum-muscle",
+      "label": "Iliocostalis lumborum muscle",
+      "region": "schiena",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        83,
+        70,
+        184
+      ],
+      "hex": "#5346b8"
+    },
+    {
+      "slug": "iliocostalis-thoracis-muscle",
+      "label": "Iliocostalis thoracis muscle",
+      "region": "schiena",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        89,
+        250,
+        54
+      ],
+      "hex": "#59fa36"
+    },
+    {
+      "slug": "inferior-gemellus-muscle",
+      "label": "Inferior gemellus muscle",
+      "region": "glutei",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        184,
+        9,
+        91
+      ],
+      "hex": "#b8095b"
+    },
+    {
+      "slug": "infraspinatus-muscle",
+      "label": "Infraspinatus muscle",
+      "region": "spalle",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        95,
+        213,
+        250
+      ],
+      "hex": "#5fd5fa"
+    },
+    {
+      "slug": "innermost-intercostal-muscles",
+      "label": "Innermost intercostal muscles",
+      "region": "core",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        184,
+        176,
+        39
+      ],
+      "hex": "#b8b027"
+    },
+    {
+      "slug": "internal-abdominal-oblique-muscle",
+      "label": "Internal abdominal oblique muscle",
+      "region": "addome",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        168,
+        12,
+        250
+      ],
+      "hex": "#a80cfa"
+    },
+    {
+      "slug": "internal-intercostal-muscles",
+      "label": "Internal intercostal muscles",
+      "region": "core",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        70,
+        184,
+        111
+      ],
+      "hex": "#46b86f"
+    },
+    {
+      "slug": "interspinales-colli-muscles",
+      "label": "Interspinales colli muscles",
+      "region": "collo",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        250,
+        67,
+        54
+      ],
+      "hex": "#fa4336"
+    },
+    {
+      "slug": "interspinales-lumborum-muscles",
+      "label": "Interspinales lumborum muscles",
+      "region": "schiena",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        9,
+        48,
+        184
+      ],
+      "hex": "#0930b8"
+    },
+    {
+      "slug": "interspinales-thoracis-muscles",
+      "label": "Interspinales thoracis muscles",
+      "region": "schiena",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        175,
+        250,
+        95
+      ],
+      "hex": "#affa5f"
+    },
+    {
+      "slug": "lateral-head-of-gastrocnemius",
+      "label": "Lateral head of gastrocnemius",
+      "region": "polpacci",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        184,
+        39,
+        156
+      ],
+      "hex": "#b8279c"
+    },
+    {
+      "slug": "lateral-head-of-triceps-brachii",
+      "label": "Lateral head of triceps brachii",
+      "region": "braccia",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        12,
+        250,
+        227
+      ],
+      "hex": "#0cfae3"
+    },
+    {
+      "slug": "latissimus-dorsi-muscle",
+      "label": "Latissimus dorsi muscle",
+      "region": "schiena",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        184,
+        139,
+        70
+      ],
+      "hex": "#b88b46"
+    },
+    {
+      "slug": "levator-scapulae",
+      "label": "Levator scapulae",
+      "region": "schiena",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        116,
+        54,
+        250
+      ],
+      "hex": "#7436fa"
+    },
+    {
+      "slug": "levatores-breves-costarum",
+      "label": "Levatores breves costarum",
+      "region": "schiena",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        9,
+        184,
+        14
+      ],
+      "hex": "#09b80e"
+    },
+    {
+      "slug": "levatores-longi-costarum",
+      "label": "Levatores longi costarum",
+      "region": "schiena",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        250,
+        95,
+        136
+      ],
+      "hex": "#fa5f88"
+    },
+    {
+      "slug": "long-head-of-biceps-brachii",
+      "label": "Long head of biceps brachii",
+      "region": "braccia",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        39,
+        120,
+        184
+      ],
+      "hex": "#2778b8"
+    },
+    {
+      "slug": "long-head-of-biceps-femoris",
+      "label": "Long head of biceps femoris",
+      "region": "femorali",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        214,
+        250,
+        12
+      ],
+      "hex": "#d6fa0c"
+    },
+    {
+      "slug": "long-head-of-triceps-brachii",
+      "label": "Long head of triceps brachii",
+      "region": "braccia",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        168,
+        70,
+        184
+      ],
+      "hex": "#a846b8"
+    },
+    {
+      "slug": "longissimus-capitis-muscle",
+      "label": "Longissimus capitis muscle",
+      "region": "schiena",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        54,
+        250,
+        165
+      ],
+      "hex": "#36faa5"
+    },
+    {
+      "slug": "longissimus-colli-muscle",
+      "label": "Longissimus colli muscle",
+      "region": "collo",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        184,
+        57,
+        9
+      ],
+      "hex": "#b83909"
+    },
+    {
+      "slug": "longissimus-thoracis-muscle",
+      "label": "Longissimus thoracis muscle",
+      "region": "schiena",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        95,
+        97,
+        250
+      ],
+      "hex": "#5f61fa"
+    },
+    {
+      "slug": "medial-head-of-gastrocnemius",
+      "label": "Medial head of gastrocnemius",
+      "region": "polpacci",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        84,
+        184,
+        39
+      ],
+      "hex": "#54b827"
+    },
+    {
+      "slug": "medial-head-of-triceps-brachii",
+      "label": "Medial head of triceps brachii",
+      "region": "braccia",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        250,
+        12,
+        155
+      ],
+      "hex": "#fa0c9b"
+    },
+    {
+      "slug": "multifidus-colli-muscle",
+      "label": "Multifidus colli muscle",
+      "region": "collo",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        70,
+        171,
+        184
+      ],
+      "hex": "#46abb8"
+    },
+    {
+      "slug": "multifidus-lumborum-muscle",
+      "label": "Multifidus lumborum muscle",
+      "region": "schiena",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        250,
+        214,
+        54
+      ],
+      "hex": "#fad636"
+    },
+    {
+      "slug": "multifidus-thoracis-muscle",
+      "label": "Multifidus thoracis muscle",
+      "region": "schiena",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        101,
+        9,
+        184
+      ],
+      "hex": "#6509b8"
+    },
+    {
+      "slug": "obturator-externus",
+      "label": "Obturator externus",
+      "region": "glutei",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        95,
+        250,
+        131
+      ],
+      "hex": "#5ffa83"
+    },
+    {
+      "slug": "obturator-internus",
+      "label": "Obturator internus",
+      "region": "glutei",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        184,
+        39,
+        48
+      ],
+      "hex": "#b82730"
+    },
+    {
+      "slug": "palmaris-longus-muscle",
+      "label": "Palmaris longus muscle",
+      "region": "avambraccio",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        12,
+        95,
+        250
+      ],
+      "hex": "#0c5ffa"
+    },
+    {
+      "slug": "pectineus-muscle",
+      "label": "Pectineus muscle",
+      "region": "adduttori",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        143,
+        184,
+        70
+      ],
+      "hex": "#8fb846"
+    },
+    {
+      "slug": "pectoralis-minor-muscle",
+      "label": "Pectoralis minor muscle",
+      "region": "petto",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        250,
+        54,
+        237
+      ],
+      "hex": "#fa36ed"
+    },
+    {
+      "slug": "piriformis-muscle",
+      "label": "Piriformis muscle",
+      "region": "glutei",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        9,
+        184,
+        144
+      ],
+      "hex": "#09b890"
+    },
+    {
+      "slug": "plantaris-muscle",
+      "label": "Plantaris muscle",
+      "region": "polpacci",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        250,
+        170,
+        95
+      ],
+      "hex": "#faaa5f"
+    },
+    {
+      "slug": "popliteus-muscle",
+      "label": "Popliteus muscle",
+      "region": "polpacci",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        67,
+        39,
+        184
+      ],
+      "hex": "#4327b8"
+    },
+    {
+      "slug": "pronator-quadratus",
+      "label": "Pronator quadratus",
+      "region": "avambraccio",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        36,
+        250,
+        12
+      ],
+      "hex": "#24fa0c"
+    },
+    {
+      "slug": "psoas-major",
+      "label": "Psoas major",
+      "region": "core",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        184,
+        70,
+        114
+      ],
+      "hex": "#b84672"
+    },
+    {
+      "slug": "pubo-analis-muscle",
+      "label": "Pubo-analis muscle",
+      "region": "core",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        54,
+        188,
+        250
+      ],
+      "hex": "#36bcfa"
+    },
+    {
+      "slug": "pubococcygeus-muscle",
+      "label": "Pubococcygeus muscle",
+      "region": "core",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        179,
+        184,
+        9
+      ],
+      "hex": "#b3b809"
+    },
+    {
+      "slug": "pyramidalis-muscle",
+      "label": "Pyramidalis muscle",
+      "region": "addome",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        208,
+        95,
+        250
+      ],
+      "hex": "#d05ffa"
+    },
+    {
+      "slug": "quadratus-femoris-muscle",
+      "label": "Quadratus femoris muscle",
+      "region": "glutei",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        39,
+        184,
+        103
+      ],
+      "hex": "#27b867"
+    },
+    {
+      "slug": "quadratus-lumborum-muscle",
+      "label": "Quadratus lumborum muscle",
+      "region": "schiena",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        250,
+        48,
+        12
+      ],
+      "hex": "#fa300c"
+    },
+    {
+      "slug": "radial-head-of-flexor-digitorum-superficialis",
+      "label": "Radial head of flexor digitorum superficialis",
+      "region": "avambraccio",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        70,
+        86,
+        184
+      ],
+      "hex": "#4656b8"
+    },
+    {
+      "slug": "addome-alto",
+      "label": "Addome alto",
+      "region": "addome",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        139,
+        250,
+        54
+      ],
+      "hex": "#8bfa36"
+    },
+    {
+      "slug": "addome-centrale",
+      "label": "Addome centrale",
+      "region": "addome",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        184,
+        9,
+        136
+      ],
+      "hex": "#b80988"
+    },
+    {
+      "slug": "addome-basso",
+      "label": "Addome basso",
+      "region": "addome",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        95,
+        250,
+        247
+      ],
+      "hex": "#5ffaf7"
+    },
+    {
+      "slug": "rectus-femoris-muscle",
+      "label": "Rectus femoris muscle",
+      "region": "quadricipiti",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        184,
+        139,
+        39
+      ],
+      "hex": "#b88b27"
+    },
+    {
+      "slug": "rhomboid-major-muscle",
+      "label": "Rhomboid major muscle",
+      "region": "schiena",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        107,
+        12,
+        250
+      ],
+      "hex": "#6b0cfa"
+    },
+    {
+      "slug": "rhomboid-minor-muscle",
+      "label": "Rhomboid minor muscle",
+      "region": "schiena",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        70,
+        184,
+        82
+      ],
+      "hex": "#46b852"
+    },
+    {
+      "slug": "rotatores",
+      "label": "Rotatores",
+      "region": "spalle",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        250,
+        54,
+        90
+      ],
+      "hex": "#fa365a"
+    },
+    {
+      "slug": "sartorius-muscle",
+      "label": "Sartorius muscle",
+      "region": "quadricipiti",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        9,
+        92,
+        184
+      ],
+      "hex": "#095cb8"
+    },
+    {
+      "slug": "scalenus-anterior-muscle",
+      "label": "Scalenus anterior muscle",
+      "region": "collo",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        214,
+        250,
+        95
+      ],
+      "hex": "#d6fa5f"
+    },
+    {
+      "slug": "scalenus-medius-muscle",
+      "label": "Scalenus medius muscle",
+      "region": "collo",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        175,
+        39,
+        184
+      ],
+      "hex": "#af27b8"
+    },
+    {
+      "slug": "scalenus-posterior-muscle",
+      "label": "Scalenus posterior muscle",
+      "region": "collo",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        12,
+        250,
+        166
+      ],
+      "hex": "#0cfaa6"
+    },
+    {
+      "slug": "semimembranosus-muscle",
+      "label": "Semimembranosus muscle",
+      "region": "femorali",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        184,
+        110,
+        70
+      ],
+      "hex": "#b86e46"
+    },
+    {
+      "slug": "semispinalis-colli-muscle",
+      "label": "Semispinalis colli muscle",
+      "region": "collo",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        66,
+        54,
+        250
+      ],
+      "hex": "#4236fa"
+    },
+    {
+      "slug": "semispinalis-thoracis-muscle",
+      "label": "Semispinalis thoracis muscle",
+      "region": "schiena",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        49,
+        184,
+        9
+      ],
+      "hex": "#31b809"
+    },
+    {
+      "slug": "semitendinosus-muscle",
+      "label": "Semitendinosus muscle",
+      "region": "femorali",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        250,
+        95,
+        175
+      ],
+      "hex": "#fa5faf"
+    },
+    {
+      "slug": "serratus-anterior-muscle",
+      "label": "Serratus anterior muscle",
+      "region": "petto",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        39,
+        156,
+        184
+      ],
+      "hex": "#279cb8"
+    },
+    {
+      "slug": "serratus-posterior-inferior-muscle",
+      "label": "Serratus posterior inferior muscle",
+      "region": "schiena",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        250,
+        225,
+        12
+      ],
+      "hex": "#fae10c"
+    },
+    {
+      "slug": "serratus-posterior-superior-muscle",
+      "label": "Serratus posterior superior muscle",
+      "region": "schiena",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        139,
+        70,
+        184
+      ],
+      "hex": "#8b46b8"
+    },
+    {
+      "slug": "short-head-of-biceps-brachii",
+      "label": "Short head of biceps brachii",
+      "region": "braccia",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        54,
+        250,
+        115
+      ],
+      "hex": "#36fa73"
+    },
+    {
+      "slug": "short-head-of-biceps-femoris",
+      "label": "Short head of biceps femoris",
+      "region": "femorali",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        184,
+        13,
+        9
+      ],
+      "hex": "#b80d09"
+    },
+    {
+      "slug": "soleus-muscle",
+      "label": "Soleus muscle",
+      "region": "polpacci",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        95,
+        137,
+        250
+      ],
+      "hex": "#5f89fa"
+    },
+    {
+      "slug": "scapular-spinal-part-of-deltoid-muscle",
+      "label": "Scapular spinal part of deltoid muscle",
+      "region": "spalle",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        120,
+        184,
+        39
+      ],
+      "hex": "#78b827"
+    },
+    {
+      "slug": "spinalis-capitis-muscle",
+      "label": "Spinalis capitis muscle",
+      "region": "schiena",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        250,
+        12,
+        215
+      ],
+      "hex": "#fa0cd7"
+    },
+    {
+      "slug": "spinalis-colli-muscle",
+      "label": "Spinalis colli muscle",
+      "region": "collo",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        70,
+        184,
+        167
+      ],
+      "hex": "#46b8a7"
+    },
+    {
+      "slug": "spinalis-thoracis-muscle",
+      "label": "Spinalis thoracis muscle",
+      "region": "schiena",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        250,
+        164,
+        54
+      ],
+      "hex": "#faa436"
+    },
+    {
+      "slug": "splenius-capitis-muscle",
+      "label": "Splenius capitis muscle",
+      "region": "collo",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        56,
+        9,
+        184
+      ],
+      "hex": "#3809b8"
+    },
+    {
+      "slug": "splenius-colli-muscle",
+      "label": "Splenius colli muscle",
+      "region": "collo",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        98,
+        250,
+        95
+      ],
+      "hex": "#62fa5f"
+    },
+    {
+      "slug": "sternocleidomastoid-muscle",
+      "label": "Sternocleidomastoid muscle",
+      "region": "collo",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        184,
+        39,
+        85
+      ],
+      "hex": "#b82755"
+    },
+    {
+      "slug": "sternocostal-head-of-pectoralis-major-muscle",
+      "label": "Sternocostal head of pectoralis major muscle",
+      "region": "petto",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        12,
+        156,
+        250
+      ],
+      "hex": "#0c9cfa"
+    },
+    {
+      "slug": "subclavius-muscle",
+      "label": "Subclavius muscle",
+      "region": "petto",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        172,
+        184,
+        70
+      ],
+      "hex": "#acb846"
+    },
+    {
+      "slug": "subscapularis-muscle",
+      "label": "Subscapularis muscle",
+      "region": "spalle",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        213,
+        54,
+        250
+      ],
+      "hex": "#d536fa"
+    },
+    {
+      "slug": "superficial-head-of-pronator-teres",
+      "label": "Superficial head of pronator teres",
+      "region": "avambraccio",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        9,
+        184,
+        100
+      ],
+      "hex": "#09b864"
+    },
+    {
+      "slug": "superior-gemellus-muscle",
+      "label": "Superior gemellus muscle",
+      "region": "glutei",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        250,
+        130,
+        95
+      ],
+      "hex": "#fa825f"
+    },
+    {
+      "slug": "supinator",
+      "label": "Supinator",
+      "region": "avambraccio",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        39,
+        49,
+        184
+      ],
+      "hex": "#2731b8"
+    },
+    {
+      "slug": "supraspinatus-muscle",
+      "label": "Supraspinatus muscle",
+      "region": "spalle",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        97,
+        250,
+        12
+      ],
+      "hex": "#61fa0c"
+    },
+    {
+      "slug": "teres-major-muscle",
+      "label": "Teres major muscle",
+      "region": "schiena",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        184,
+        70,
+        143
+      ],
+      "hex": "#b8468f"
+    },
+    {
+      "slug": "teres-minor-muscle",
+      "label": "Teres minor muscle",
+      "region": "spalle",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        54,
+        238,
+        250
+      ],
+      "hex": "#36eefa"
+    },
+    {
+      "slug": "tibialis-anterior-muscle",
+      "label": "Tibialis anterior muscle",
+      "region": "polpacci",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        184,
+        143,
+        9
+      ],
+      "hex": "#b88f09"
+    },
+    {
+      "slug": "tibialis-posterior-muscle",
+      "label": "Tibialis posterior muscle",
+      "region": "polpacci",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        169,
+        95,
+        250
+      ],
+      "hex": "#a95ffa"
+    },
+    {
+      "slug": "transverse-part-of-trapezius-muscle",
+      "label": "Transverse part of trapezius muscle",
+      "region": "schiena",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        39,
+        184,
+        66
+      ],
+      "hex": "#27b842"
+    },
+    {
+      "slug": "transversus-abdominis-muscle",
+      "label": "Transversus abdominis muscle",
+      "region": "addome",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        250,
+        12,
+        38
+      ],
+      "hex": "#fa0c26"
+    },
+    {
+      "slug": "transversus-thoracis-muscle",
+      "label": "Transversus thoracis muscle",
+      "region": "core",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        70,
+        115,
+        184
+      ],
+      "hex": "#4673b8"
+    },
+    {
+      "slug": "ulnar-head-of-extensor-carpi-ulnaris",
+      "label": "Ulnar head of extensor carpi ulnaris",
+      "region": "avambraccio",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        189,
+        250,
+        54
+      ],
+      "hex": "#bdfa36"
+    },
+    {
+      "slug": "ulnar-head-of-flexor-carpi-ulnaris",
+      "label": "Ulnar head of flexor carpi ulnaris",
+      "region": "avambraccio",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        184,
+        9,
+        180
+      ],
+      "hex": "#b809b4"
+    },
+    {
+      "slug": "vastus-intermedius-muscle",
+      "label": "Vastus intermedius muscle",
+      "region": "quadricipiti",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        95,
+        250,
+        208
+      ],
+      "hex": "#5ffad0"
+    },
+    {
+      "slug": "vastus-lateralis-muscle",
+      "label": "Vastus lateralis muscle",
+      "region": "quadricipiti",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        184,
+        102,
+        39
+      ],
+      "hex": "#b86627"
+    },
+    {
+      "slug": "vastus-medialis-muscle",
+      "label": "Vastus medialis muscle",
+      "region": "quadricipiti",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        46,
+        12,
+        250
+      ],
+      "hex": "#2e0cfa"
+    },
+    {
+      "slug": "ventral-parts-of-lateral-intertransversarii-lumborum-muscles",
+      "label": "Ventral parts of lateral intertransversarii lumborum muscles",
+      "region": "schiena",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        87,
+        184,
+        70
+      ],
+      "hex": "#57b846"
+    },
+    {
+      "slug": "addome",
+      "label": "Addome (tutto)",
+      "region": "addome",
+      "views": [
+        "front"
+      ],
+      "members": [
+        "addome-alto",
+        "addome-centrale",
+        "addome-basso"
+      ],
+      "color255": [
+        250,
+        54,
+        140
+      ],
+      "hex": "#fa368c"
+    },
+    {
+      "slug": "abductor-digiti-minimi-of-foot",
+      "label": "Abductor digiti minimi of foot",
+      "region": "piede",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        184,
+        171,
+        70
+      ],
+      "hex": "#b8ab46"
+    },
+    {
+      "slug": "abductor-digiti-minimi-of-hand",
+      "label": "Abductor digiti minimi of hand",
+      "region": "mano",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        171,
+        54,
+        250
+      ],
+      "hex": "#ab36fa"
+    },
+    {
+      "slug": "abductor-hallucis",
+      "label": "Abductor hallucis",
+      "region": "piede",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        9,
+        184,
+        62
+      ],
+      "hex": "#09b83e"
+    },
+    {
+      "slug": "abductor-pollicis-brevis",
+      "label": "Abductor pollicis brevis",
+      "region": "mano",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        250,
+        97,
+        95
+      ],
+      "hex": "#fa615f"
+    },
+    {
+      "slug": "abductor-pollicis-longus",
+      "label": "Abductor pollicis longus",
+      "region": "avambraccio",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        39,
+        80,
+        184
+      ],
+      "hex": "#2750b8"
+    },
+    {
+      "slug": "anterior-belly-of-digastric-muscle",
+      "label": "Anterior belly of digastric muscle",
+      "region": "collo",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        148,
+        250,
+        12
+      ],
+      "hex": "#94fa0c"
+    },
+    {
+      "slug": "ary-epiglottic-part-of-oblique-arytenoid-muscle",
+      "label": "Ary-epiglottic part of oblique arytenoid muscle",
+      "region": "laringe-faringe-lingua",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        184,
+        70,
+        168
+      ],
+      "hex": "#b846a8"
+    },
+    {
+      "slug": "bucinator",
+      "label": "Bucinator",
+      "region": "masticazione",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        54,
+        250,
+        220
+      ],
+      "hex": "#36fadc"
+    },
+    {
+      "slug": "corrugator-supercilii",
+      "label": "Corrugator supercilii",
+      "region": "volto",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        184,
+        106,
+        9
+      ],
+      "hex": "#b86a09"
+    },
+    {
+      "slug": "deep-head-of-flexor-pollicis-brevis",
+      "label": "Deep head of flexor pollicis brevis",
+      "region": "mano",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        136,
+        95,
+        250
+      ],
+      "hex": "#885ffa"
+    },
+    {
+      "slug": "deep-part-of-masseter",
+      "label": "Deep part of masseter",
+      "region": "masticazione",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        44,
+        184,
+        39
+      ],
+      "hex": "#2cb827"
+    },
+    {
+      "slug": "depressor-anguli-oris",
+      "label": "Depressor anguli oris",
+      "region": "volto",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        250,
+        12,
+        89
+      ],
+      "hex": "#fa0c59"
+    },
+    {
+      "slug": "depressor-labii-inferioris",
+      "label": "Depressor labii inferioris",
+      "region": "volto",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        70,
+        140,
+        184
+      ],
+      "hex": "#468cb8"
+    },
+    {
+      "slug": "depressor-septi-nasi",
+      "label": "Depressor septi nasi",
+      "region": "volto",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        231,
+        250,
+        54
+      ],
+      "hex": "#e7fa36"
+    },
+    {
+      "slug": "extensor-digiti-minimi",
+      "label": "Extensor digiti minimi",
+      "region": "avambraccio",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        149,
+        9,
+        184
+      ],
+      "hex": "#9509b8"
+    },
+    {
+      "slug": "extensor-digitorum-brevis",
+      "label": "Extensor digitorum brevis",
+      "region": "piede",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        95,
+        250,
+        174
+      ],
+      "hex": "#5ffaae"
+    },
+    {
+      "slug": "extensor-hallucis-brevis",
+      "label": "Extensor hallucis brevis",
+      "region": "piede",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        184,
+        71,
+        39
+      ],
+      "hex": "#b84727"
+    },
+    {
+      "slug": "extensor-hallucis-longus",
+      "label": "Extensor hallucis longus",
+      "region": "polpacci",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        12,
+        30,
+        250
+      ],
+      "hex": "#0c1efa"
+    },
+    {
+      "slug": "extensor-pollicis-brevis",
+      "label": "Extensor pollicis brevis",
+      "region": "avambraccio",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        111,
+        184,
+        70
+      ],
+      "hex": "#6fb846"
+    },
+    {
+      "slug": "extensor-pollicis-longus",
+      "label": "Extensor pollicis longus",
+      "region": "avambraccio",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        250,
+        54,
+        182
+      ],
+      "hex": "#fa36b6"
+    },
+    {
+      "slug": "external-part-of-thyro-arytenoid-muscle",
+      "label": "External part of thyro-arytenoid muscle",
+      "region": "laringe-faringe-lingua",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        9,
+        174,
+        184
+      ],
+      "hex": "#09aeb8"
+    },
+    {
+      "slug": "flexor-digiti-minimi-of-foot",
+      "label": "Flexor digiti minimi of foot",
+      "region": "piede",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        250,
+        213,
+        95
+      ],
+      "hex": "#fad55f"
+    },
+    {
+      "slug": "flexor-digiti-minimi-of-hand",
+      "label": "Flexor digiti minimi of hand",
+      "region": "mano",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        107,
+        39,
+        184
+      ],
+      "hex": "#6b27b8"
+    },
+    {
+      "slug": "flexor-digitorum-brevis",
+      "label": "Flexor digitorum brevis",
+      "region": "piede",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        12,
+        250,
+        54
+      ],
+      "hex": "#0cfa36"
+    },
+    {
+      "slug": "flexor-hallucis-longus",
+      "label": "Flexor hallucis longus",
+      "region": "polpacci",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        184,
+        70,
+        83
+      ],
+      "hex": "#b84653"
+    },
+    {
+      "slug": "flexor-pollicis-longus",
+      "label": "Flexor pollicis longus",
+      "region": "avambraccio",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        54,
+        134,
+        250
+      ],
+      "hex": "#3686fa"
+    },
+    {
+      "slug": "frontalis-muscle",
+      "label": "Frontalis muscle",
+      "region": "volto",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        131,
+        184,
+        9
+      ],
+      "hex": "#83b809"
+    },
+    {
+      "slug": "genioglossus-muscle",
+      "label": "Genioglossus muscle",
+      "region": "laringe-faringe-lingua",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        250,
+        95,
+        248
+      ],
+      "hex": "#fa5ff8"
+    },
+    {
+      "slug": "geniohyoid-muscle",
+      "label": "Geniohyoid muscle",
+      "region": "collo",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        39,
+        184,
+        143
+      ],
+      "hex": "#27b88f"
+    },
+    {
+      "slug": "hyoglossus-muscle",
+      "label": "Hyoglossus muscle",
+      "region": "laringe-faringe-lingua",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        250,
+        114,
+        12
+      ],
+      "hex": "#fa720c"
+    },
+    {
+      "slug": "inferior-head-of-lateral-pterygoid-muscle",
+      "label": "Inferior head of lateral pterygoid muscle",
+      "region": "masticazione",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        85,
+        70,
+        184
+      ],
+      "hex": "#5546b8"
+    },
+    {
+      "slug": "inferior-oblique-muscle",
+      "label": "Inferior oblique muscle",
+      "region": "occhio-orecchio",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        85,
+        250,
+        54
+      ],
+      "hex": "#55fa36"
+    },
+    {
+      "slug": "inferior-pharyngeal-constrictor",
+      "label": "Inferior pharyngeal constrictor",
+      "region": "laringe-faringe-lingua",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        184,
+        9,
+        88
+      ],
+      "hex": "#b80958"
+    },
+    {
+      "slug": "inferior-rectus-muscle",
+      "label": "Inferior rectus muscle",
+      "region": "occhio-orecchio",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        95,
+        210,
+        250
+      ],
+      "hex": "#5fd2fa"
+    },
+    {
+      "slug": "lateral-crico-arytenoid-muscle",
+      "label": "Lateral crico-arytenoid muscle",
+      "region": "laringe-faringe-lingua",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        184,
+        179,
+        39
+      ],
+      "hex": "#b8b327"
+    },
+    {
+      "slug": "lateral-head-of-flexor-hallucis-brevis",
+      "label": "Lateral head of flexor hallucis brevis",
+      "region": "piede",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        173,
+        12,
+        250
+      ],
+      "hex": "#ad0cfa"
+    },
+    {
+      "slug": "lateral-rectus-muscle",
+      "label": "Lateral rectus muscle",
+      "region": "occhio-orecchio",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        70,
+        184,
+        113
+      ],
+      "hex": "#46b871"
+    },
+    {
+      "slug": "levator-anguli-oris",
+      "label": "Levator anguli oris",
+      "region": "volto",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        250,
+        72,
+        54
+      ],
+      "hex": "#fa4836"
+    },
+    {
+      "slug": "levator-labii-superioris",
+      "label": "Levator labii superioris",
+      "region": "volto",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        9,
+        44,
+        184
+      ],
+      "hex": "#092cb8"
+    },
+    {
+      "slug": "levator-nasolabialis",
+      "label": "Levator nasolabialis",
+      "region": "volto",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        171,
+        250,
+        95
+      ],
+      "hex": "#abfa5f"
+    },
+    {
+      "slug": "levator-palpebrae-superioris",
+      "label": "Levator palpebrae superioris",
+      "region": "occhio-orecchio",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        184,
+        39,
+        152
+      ],
+      "hex": "#b82798"
+    },
+    {
+      "slug": "longus-capitis-muscle",
+      "label": "Longus capitis muscle",
+      "region": "collo",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        12,
+        250,
+        232
+      ],
+      "hex": "#0cfae8"
+    },
+    {
+      "slug": "longus-colli-muscle",
+      "label": "Longus colli muscle",
+      "region": "collo",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        184,
+        142,
+        70
+      ],
+      "hex": "#b88e46"
+    },
+    {
+      "slug": "medial-head-of-flexor-hallucis-brevis",
+      "label": "Medial head of flexor hallucis brevis",
+      "region": "piede",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        121,
+        54,
+        250
+      ],
+      "hex": "#7936fa"
+    },
+    {
+      "slug": "medial-pterygoid-muscle",
+      "label": "Medial pterygoid muscle",
+      "region": "masticazione",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        9,
+        184,
+        18
+      ],
+      "hex": "#09b812"
+    },
+    {
+      "slug": "medial-rectus-muscle",
+      "label": "Medial rectus muscle",
+      "region": "occhio-orecchio",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        250,
+        95,
+        133
+      ],
+      "hex": "#fa5f85"
+    },
+    {
+      "slug": "mentalis-muscle",
+      "label": "Mentalis muscle",
+      "region": "volto",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        39,
+        116,
+        184
+      ],
+      "hex": "#2774b8"
+    },
+    {
+      "slug": "middle-pharyngeal-constrictor",
+      "label": "Middle pharyngeal constrictor",
+      "region": "laringe-faringe-lingua",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        209,
+        250,
+        12
+      ],
+      "hex": "#d1fa0c"
+    },
+    {
+      "slug": "mylohyoid-muscle",
+      "label": "Mylohyoid muscle",
+      "region": "collo",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        170,
+        70,
+        184
+      ],
+      "hex": "#aa46b8"
+    },
+    {
+      "slug": "nasalis-muscle",
+      "label": "Nasalis muscle",
+      "region": "volto",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        54,
+        250,
+        170
+      ],
+      "hex": "#36faaa"
+    },
+    {
+      "slug": "oblique-head-of-adductor-hallucis",
+      "label": "Oblique head of adductor hallucis",
+      "region": "piede",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        184,
+        61,
+        9
+      ],
+      "hex": "#b83d09"
+    },
+    {
+      "slug": "oblique-head-of-adductor-pollicis",
+      "label": "Oblique head of adductor pollicis",
+      "region": "mano",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        96,
+        95,
+        250
+      ],
+      "hex": "#605ffa"
+    },
+    {
+      "slug": "oblique-part-of-cricothyroid-muscle",
+      "label": "Oblique part of cricothyroid muscle",
+      "region": "laringe-faringe-lingua",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        81,
+        184,
+        39
+      ],
+      "hex": "#51b827"
+    },
+    {
+      "slug": "obliquus-inferior-capitis-muscle",
+      "label": "Obliquus inferior capitis muscle",
+      "region": "collo",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        250,
+        12,
+        149
+      ],
+      "hex": "#fa0c95"
+    },
+    {
+      "slug": "obliquus-superior-capitis-muscle",
+      "label": "Obliquus superior capitis muscle",
+      "region": "collo",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        70,
+        169,
+        184
+      ],
+      "hex": "#46a9b8"
+    },
+    {
+      "slug": "occipitalis-muscle",
+      "label": "Occipitalis muscle",
+      "region": "volto",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        250,
+        218,
+        54
+      ],
+      "hex": "#fada36"
+    },
+    {
+      "slug": "omohyoid-muscle",
+      "label": "Omohyoid muscle",
+      "region": "collo",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        105,
+        9,
+        184
+      ],
+      "hex": "#6909b8"
+    },
+    {
+      "slug": "opponens-digiti-minimi-muscle-of-foot",
+      "label": "(Opponens digiti minimi muscle of foot)",
+      "region": "piede",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        95,
+        250,
+        135
+      ],
+      "hex": "#5ffa87"
+    },
+    {
+      "slug": "opponens-digiti-minimi-muscle-of-hand",
+      "label": "Opponens digiti minimi muscle of hand",
+      "region": "mano",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        184,
+        39,
+        45
+      ],
+      "hex": "#b8272d"
+    },
+    {
+      "slug": "opponens-pollicis-muscle",
+      "label": "Opponens pollicis muscle",
+      "region": "mano",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        12,
+        90,
+        250
+      ],
+      "hex": "#0c5afa"
+    },
+    {
+      "slug": "orbicularis-oris-muscle",
+      "label": "Orbicularis oris muscle",
+      "region": "volto",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        140,
+        184,
+        70
+      ],
+      "hex": "#8cb846"
+    },
+    {
+      "slug": "orbital-part-of-orbicularis-oculi",
+      "label": "Orbital part of orbicularis oculi",
+      "region": "occhio-orecchio",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        250,
+        54,
+        233
+      ],
+      "hex": "#fa36e9"
+    },
+    {
+      "slug": "palatopharyngeus-muscle",
+      "label": "Palatopharyngeus muscle",
+      "region": "laringe-faringe-lingua",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        9,
+        184,
+        148
+      ],
+      "hex": "#09b894"
+    },
+    {
+      "slug": "palmar-interossei-muscles",
+      "label": "Palmar interossei muscles",
+      "region": "mano",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        250,
+        173,
+        95
+      ],
+      "hex": "#faad5f"
+    },
+    {
+      "slug": "palpebral-part-of-orbicularis-oculi",
+      "label": "Palpebral part of orbicularis oculi",
+      "region": "occhio-orecchio",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        70,
+        39,
+        184
+      ],
+      "hex": "#4627b8"
+    },
+    {
+      "slug": "plantar-interossei-muscles",
+      "label": "Plantar interossei muscles",
+      "region": "piede",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        31,
+        250,
+        12
+      ],
+      "hex": "#1ffa0c"
+    },
+    {
+      "slug": "platysma",
+      "label": "Platysma",
+      "region": "collo",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        184,
+        70,
+        112
+      ],
+      "hex": "#b84670"
+    },
+    {
+      "slug": "posterior-belly-of-digastric-muscle",
+      "label": "Posterior belly of digastric muscle",
+      "region": "collo",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        54,
+        184,
+        250
+      ],
+      "hex": "#36b8fa"
+    },
+    {
+      "slug": "posterior-crico-arytenoid-muscle",
+      "label": "Posterior crico-arytenoid muscle",
+      "region": "laringe-faringe-lingua",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        176,
+        184,
+        9
+      ],
+      "hex": "#b0b809"
+    },
+    {
+      "slug": "procerus-muscle",
+      "label": "Procerus muscle",
+      "region": "volto",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        212,
+        95,
+        250
+      ],
+      "hex": "#d45ffa"
+    },
+    {
+      "slug": "quadratus-plantae-muscle",
+      "label": "Quadratus plantae muscle",
+      "region": "piede",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        39,
+        184,
+        106
+      ],
+      "hex": "#27b86a"
+    },
+    {
+      "slug": "rectus-anterior-capitis-muscle",
+      "label": "Rectus anterior capitis muscle",
+      "region": "collo",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        250,
+        53,
+        12
+      ],
+      "hex": "#fa350c"
+    },
+    {
+      "slug": "rectus-lateralis-capitis-muscle",
+      "label": "Rectus lateralis capitis muscle",
+      "region": "collo",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        70,
+        84,
+        184
+      ],
+      "hex": "#4654b8"
+    },
+    {
+      "slug": "rectus-posterior-major-capitis-muscle",
+      "label": "Rectus posterior major capitis muscle",
+      "region": "collo",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        135,
+        250,
+        54
+      ],
+      "hex": "#87fa36"
+    },
+    {
+      "slug": "rectus-posterior-minor-capitis-muscle",
+      "label": "Rectus posterior minor capitis muscle",
+      "region": "collo",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        184,
+        9,
+        132
+      ],
+      "hex": "#b80984"
+    },
+    {
+      "slug": "risorius-muscle",
+      "label": "Risorius muscle",
+      "region": "volto",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        95,
+        249,
+        250
+      ],
+      "hex": "#5ff9fa"
+    },
+    {
+      "slug": "sternohyoid-muscle",
+      "label": "Sternohyoid muscle",
+      "region": "collo",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        184,
+        142,
+        39
+      ],
+      "hex": "#b88e27"
+    },
+    {
+      "slug": "sternothyroid-muscle",
+      "label": "Sternothyroid muscle",
+      "region": "collo",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        112,
+        12,
+        250
+      ],
+      "hex": "#700cfa"
+    },
+    {
+      "slug": "straight-part-of-cricothyroid-muscle",
+      "label": "Straight part of cricothyroid muscle",
+      "region": "laringe-faringe-lingua",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        70,
+        184,
+        84
+      ],
+      "hex": "#46b854"
+    },
+    {
+      "slug": "stylohyoid-muscle",
+      "label": "Stylohyoid muscle",
+      "region": "collo",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        250,
+        54,
+        86
+      ],
+      "hex": "#fa3656"
+    },
+    {
+      "slug": "stylopharyngeus-muscle",
+      "label": "Stylopharyngeus muscle",
+      "region": "laringe-faringe-lingua",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        9,
+        89,
+        184
+      ],
+      "hex": "#0959b8"
+    },
+    {
+      "slug": "superficial-head-of-flexor-pollicis-brevis",
+      "label": "Superficial head of flexor pollicis brevis",
+      "region": "mano",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        211,
+        250,
+        95
+      ],
+      "hex": "#d3fa5f"
+    },
+    {
+      "slug": "superficial-part-of-masseter",
+      "label": "Superficial part of masseter",
+      "region": "masticazione",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        178,
+        39,
+        184
+      ],
+      "hex": "#b227b8"
+    },
+    {
+      "slug": "superior-head-of-lateral-pterygoid-muscle",
+      "label": "Superior head of lateral pterygoid muscle",
+      "region": "masticazione",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        12,
+        250,
+        171
+      ],
+      "hex": "#0cfaab"
+    },
+    {
+      "slug": "superior-oblique-muscle",
+      "label": "Superior oblique muscle",
+      "region": "occhio-orecchio",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        184,
+        113,
+        70
+      ],
+      "hex": "#b87146"
+    },
+    {
+      "slug": "superior-pharyngeal-constrictor",
+      "label": "Superior pharyngeal constrictor",
+      "region": "laringe-faringe-lingua",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        71,
+        54,
+        250
+      ],
+      "hex": "#4736fa"
+    },
+    {
+      "slug": "superior-rectus-muscle",
+      "label": "Superior rectus muscle",
+      "region": "occhio-orecchio",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        45,
+        184,
+        9
+      ],
+      "hex": "#2db809"
+    },
+    {
+      "slug": "temporalis-muscle",
+      "label": "Temporalis muscle",
+      "region": "masticazione",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        250,
+        95,
+        172
+      ],
+      "hex": "#fa5fac"
+    },
+    {
+      "slug": "temporoparietalis-muscle",
+      "label": "Temporoparietalis muscle",
+      "region": "volto",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        39,
+        153,
+        184
+      ],
+      "hex": "#2799b8"
+    },
+    {
+      "slug": "tensor-fasciae-latae",
+      "label": "Tensor fasciae latae",
+      "region": "glutei",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        250,
+        231,
+        12
+      ],
+      "hex": "#fae70c"
+    },
+    {
+      "slug": "thyro-epiglottic-part-of-thyro-arytenoid-muscle",
+      "label": "Thyro-epiglottic part of thyro-arytenoid muscle",
+      "region": "laringe-faringe-lingua",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        141,
+        70,
+        184
+      ],
+      "hex": "#8d46b8"
+    },
+    {
+      "slug": "thyrohyoid-muscle",
+      "label": "Thyrohyoid muscle",
+      "region": "collo",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        54,
+        250,
+        119
+      ],
+      "hex": "#36fa77"
+    },
+    {
+      "slug": "transverse-arytenoid-muscle",
+      "label": "Transverse arytenoid muscle",
+      "region": "laringe-faringe-lingua",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        184,
+        17,
+        9
+      ],
+      "hex": "#b81109"
+    },
+    {
+      "slug": "transverse-head-of-adductor-hallucis",
+      "label": "Transverse head of adductor hallucis",
+      "region": "piede",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        95,
+        134,
+        250
+      ],
+      "hex": "#5f86fa"
+    },
+    {
+      "slug": "transverse-head-of-adductor-pollicis",
+      "label": "Transverse head of adductor pollicis",
+      "region": "mano",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        117,
+        184,
+        39
+      ],
+      "hex": "#75b827"
+    },
+    {
+      "slug": "zygomaticus-major-muscle",
+      "label": "Zygomaticus major muscle",
+      "region": "volto",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        250,
+        12,
+        210
+      ],
+      "hex": "#fa0cd2"
+    },
+    {
+      "slug": "zygomaticus-minor-muscle",
+      "label": "Zygomaticus minor muscle",
+      "region": "volto",
+      "views": [
+        "front",
+        "back"
+      ],
+      "color255": [
+        70,
+        184,
+        169
+      ],
+      "hex": "#46b8a9"
+    }
+  ]
+}
