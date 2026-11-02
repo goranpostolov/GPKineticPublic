@@ -178,7 +178,6 @@ cropped and simplified (decimation), regrouped by muscle zone, coloured, and exp
 | `modello-3d/bodymap.glb` | 1.8 MB |
 | `modello-3d/bones.glb` | 1.1 MB |
 | `modello-3d/extras.glb` | 545 KB |
-| `modello-3d/mannequin.glb` | 139 KB |
 | `modello-3d/zones.json` | 64 KB |
 
 ## How the files are made
